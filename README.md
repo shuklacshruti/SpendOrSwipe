@@ -1,4 +1,4 @@
-# Spend or Swipe — v2.0
+# Spend or Swipe — v2.0 LOL
 
 A behavioral checkout intervention tool. Polished, reliable, slightly personalized.
 
